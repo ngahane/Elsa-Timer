@@ -38,9 +38,3 @@ class Timer {
     }
 
 }
-
-const dateElt = new Timer(new Date())
-
-console.log( 'Date : ' + dateElt.FormatDate() )
-console.log( 'Time : ' + dateElt.FormatTime() )
-console.log( 'Date and time : ' + dateElt.FormatDateTime() )
