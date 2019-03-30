@@ -1,2 +1,2 @@
 # Elsa-Timer
-Elsa-Timer is Javascript library for conversion date and time
+Elsa-Timer is a javascript library to convert your date and time into more presentable formats
